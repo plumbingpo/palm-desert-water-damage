@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationpalmdesert.com/sitemap.xml
